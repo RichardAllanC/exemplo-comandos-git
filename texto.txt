@@ -1,2 +1,3 @@
 Olá, mundo!
-Estamos aprendendo gi
+Estamos aprendendo git!!!
+Essa é a minha modificação pelo git ...
